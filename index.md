@@ -114,13 +114,13 @@ echo "source $ENV_DIR/bin/activate"
 
 <iframe src="https://www.youtube.com/embed/2Xh4QoWqKf4" width="100%" height="65%" style="border:none;"></iframe>
 
-## 5. Finish
+## 5. Dubois
 
 - Processes
 
 <iframe src="https://abikesa.github.io/scripts/chapter7.html" width="100%" height="65%" style="border:none;"></iframe>
 
-## 6. Harvest
+## 6. Terroir
 
 - Outcomes
 
