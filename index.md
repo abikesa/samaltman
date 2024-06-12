@@ -10,8 +10,8 @@
                                       3. Pouvoir 
 
 
-
- ## 2. Savoir
+                              
+ ## 2. Savoir            
 
 ```bash
 #!/bin/zsh
@@ -107,13 +107,8 @@ echo "source $ENV_DIR/bin/activate"
 
 <iframe src="https://abikesa.github.io/quickdeploy/" width="100%" height="65%" style="border:none;"></iframe>
     
- 
- - [Startup]() 
-    - Begin/Communicate
-    - Finish/Processes
-    - Harvest/Outcomes 
 
-## 4. [Begin](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
+## 4. [Memoire](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
 
 - Communicate
 
